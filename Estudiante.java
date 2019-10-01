@@ -21,7 +21,7 @@ public class Estudiante
     }
 
     /**
-     * 
+     * Cambiado para la prueba
      */
     public String getNombre() {
         return nombre;
